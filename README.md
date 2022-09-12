@@ -1,4 +1,4 @@
-<h2><img src=["https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://user-images.githubusercontent.com/112122147/189659998-e071d611-3d04-4e87-bec7-7d6b6ddddcf9.png)" width="50">Investment-Advisor [Python Project] :
+<h2><img src=["https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://user-images.githubusercontent.com/112122147/189659998-e071d611-3d04-4e87-bec7-7d6b6ddddcf9.png" width="50">Investment-Advisor [Python Project] :
 </h2>
 ### The host behavior analysis for the property rental company is an analysis between a host who is a super host and a normal host and what makes them different. The analysis is of two cities host of Country Canada i.e., Toronto And Vancouver.
 
