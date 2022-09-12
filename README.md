@@ -1,7 +1,7 @@
 <h1><img src="https://user-images.githubusercontent.com/112122147/189659998-e071d611-3d04-4e87-bec7-7d6b6ddddcf9.png" width="30">Investment-Advisor [Python Project] :
 </h1>
 
-### The host behavior analysis for the property rental company is an analysis between a host who is a super host and a normal host and what makes them different. The analysis is of two cities host of Country Canada i.e., Toronto And Vancouver.
+#### To find the Amount to be invested on each company with respect to different types of risk factors
 
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Point Of Analysis :
@@ -14,6 +14,9 @@
 2. Data Analysis with Python and SQL </p><p>
 3. Analysis Results to help the Person for invest in the Good Sector </p><p>
 4. Preparation of BSE500 data KPI by using Tableau Dashboard </p>
+<h2> Dashboard: </h2>
+  
+![Picture1](https://user-images.githubusercontent.com/112122147/189665532-45fe8371-5a74-4d84-a7af-537992c39b35.png)
 
 <h2>
 🚀 My Tech Stack:
